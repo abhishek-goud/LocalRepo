@@ -1,2 +1,2 @@
 readme file pushed through terminal
-a new feature is added.
+a new feature is added in the file.
